@@ -20,4 +20,7 @@ también tiene un menú interactivo superior en donde muestra los siguientes ít
 Con el lenguaje de programación java y el editor de código Intellij IDEA, se hizo un programa en donde muestra al usuario el funcionamiento de una Matriz Ortogonal de manera que la matriz se vuelva dinamica y pueda cumplir con el objetivo de utilizar la memoria necesaria y no desperdiciar en ello y asi mostrar al usuario la hoja de calculo que se desea visualizar
 
 Para el funcionamiento de este programa solo es necesario correr el programa en un editor de código confiable y la interacción del usuario con la consola para que elija una accion las cuales son muy intuitivas y así el programa pueda hacer su función
+
+
+
 ![excel.png](https://i.postimg.cc/59Kr2M1r/excel.png)]
